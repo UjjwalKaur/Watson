@@ -1,4 +1,4 @@
-Meet Watson: A Ruthless, No-Nonsense AI Personal Assistant
+# Meet Watson: A Ruthless, No-Nonsense AI Personal Assistant
 
 ![LifeGPT Logo](https://img.shields.io/badge/status-beta-blue)
 ![Python](https://img.shields.io/badge/python-3.10+-brightgreen)
